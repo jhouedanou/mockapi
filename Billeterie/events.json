@@ -1,0 +1,41 @@
+{
+    "id": 1,
+    "nom": "Concert de musique",
+    "date": "2023-06-15",
+    "lieu": "Salle des fêtes",
+    "description": "Concert de musique avec les plus grands artistes du moment",
+    "artistes": [
+        {
+            "id": 1,
+            "nom": "Artiste 1",
+            "biographie": "Biographie de l'artiste 1",
+            "video": "lien_vers_video_1.mp4",
+            "sons": [
+                "lien_vers_son_1.mp3",
+                "lien_vers_son_2.mp3"
+            ]
+        },
+        {
+            "id": 2,
+            "nom": "Artiste 2",
+            "biographie": "Biographie de l'artiste 2",
+            "video": "lien_vers_video_2.mp4",
+            "sons": [
+                "lien_vers_son_3.mp3",
+                "lien_vers_son_4.mp3"
+            ]
+        }
+    ],
+    "commentaires": [
+        {
+            "id": 1,
+            "auteur": "Utilisateur 1",
+            "contenu": "Super concert, j'ai adoré !"
+        },
+        {
+            "id": 2,
+            "auteur": "Utilisateur 2",
+            "contenu": "Vivement le prochain !"
+        }
+    ]
+}

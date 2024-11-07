@@ -1,0 +1,48 @@
+{
+    "id": 1,
+    "nom": "James Brown",
+    "biographie": "James Brown, surnommé 'The Godfather of Soul', était un chanteur, danseur et musicien américain. Il est l'une des figures les plus influentes de la musique soul et funk du 20e siècle.",
+    "video": "james_brown_papa_got_a_brand_new_bag.mp4",
+    "sons": [
+        "i_got_you.mp3",
+        "say_it_loud.mp3"
+    ],
+    "votes": 0,
+    "commentaires": []
+},
+{
+    "id": 2,
+    "nom": "Maceo Parker",
+    "biographie": "Saxophoniste américain légendaire, Maceo Parker est connu pour son travail avec James Brown et Parliament-Funkadelic. Il est une figure majeure du funk et de la soul.",
+    "video": "maceo_parker_live.mp4",
+    "sons": [
+        "pass_the_peas.mp3",
+        "make_it_funky.mp3"
+    ],
+    "votes": 0,
+    "commentaires": []
+},
+{
+    "id": 3,
+    "nom": "Otis Redding",
+    "biographie": "Otis Redding était l'une des plus grandes voix de la soul. Son style unique et sa présence scénique ont marqué l'histoire de la musique soul.",
+    "video": "otis_redding_dock_of_the_bay.mp4",
+    "sons": [
+        "respect.mp3",
+        "try_a_little_tenderness.mp3"
+    ],
+    "votes": 0,
+    "commentaires": []
+},
+{
+    "id": 4,
+    "nom": "Wilson Pickett",
+    "biographie": "Wilson Pickett était un chanteur américain de R&B et soul, connu pour ses hits comme 'Mustang Sally' et 'In the Midnight Hour'.",
+    "video": "wilson_pickett_mustang_sally.mp4",
+    "sons": [
+        "mustang_sally.mp3",
+        "in_the_midnight_hour.mp3"
+    ],
+    "votes": 0,
+    "commentaires": []
+}

@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "nom": "Jean Luc Houédanou",
+    "email": "jeanluc@houedanou.com",
+    "sso": true,
+    "fournisseur_connexion": "google",
+    "vote_pour": null
+}
